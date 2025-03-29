@@ -1,1 +1,8 @@
-# accountabletask
+# Task for Accountable
+
+How to run?
+
+```bash
+npm install
+npm run start
+```

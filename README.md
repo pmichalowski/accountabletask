@@ -6,3 +6,8 @@ How to run?
 npm install
 npm run start
 ```
+
+Requirements:
+
+- Node >=20
+- npm >=10

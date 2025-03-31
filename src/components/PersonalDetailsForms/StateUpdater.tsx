@@ -10,6 +10,6 @@ export const StateUpdater = () => {
     setPersonalDetails({
       ...(formik.values as PersonalDetails),
     });
-  }, [formik.values]);
+  }, [formik.values, setPersonalDetails]);
   return <></>;
 };
